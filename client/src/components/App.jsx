@@ -1,12 +1,15 @@
-// import React, { Component } from 'react';
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React, { Component } from 'react';
+
+//!why dont I need these two?!?
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+
 
 class App extends Component {
   render() {
     return (
       <div>
-        Hello Avery!! Thank you for helping me.
+        <h3>Let's get this cow party started!!🐄🐮🐄🐮</h3>
       </div>
     );
   }
